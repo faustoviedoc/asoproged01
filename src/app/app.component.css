@@ -1,0 +1,25 @@
+
+#navbarNav{
+  color: #224676;
+  font-weight: bold;
+}
+.navbar{
+  color: #224676;
+}
+.navbar-brand{
+
+  float: top;
+}
+.gris{
+  position: absolute;
+  margin-top: -35px;
+  margin-left: 100px;
+  float: right;
+}
+a:hover {
+  color: #125699;
+}
+.navbar-expand-lg{
+  position: sticky;
+
+}

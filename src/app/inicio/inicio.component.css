@@ -1,0 +1,24 @@
+.texto{
+  color: #224676;
+margin-left: auto;
+  margin-right: auto;
+}
+.fondo{
+  width: auto;
+  height: 400px;
+}
+.textoinicio1{
+background-image: url("https://user-images.githubusercontent.com/78450336/118043979-b2415300-b33b-11eb-8199-5fe5a68f8c6b.png");
+  background-repeat: no-repeat;
+}
+.textoinicio2{
+  background-image: url("https://user-images.githubusercontent.com/78450336/118043973-b1102600-b33b-11eb-91d7-e154c0926b2e.png");
+  background-repeat: no-repeat;
+}
+.textoinicio3{
+  background-image: url("https://user-images.githubusercontent.com/78450336/118043976-b2415300-b33b-11eb-96d9-d437963cb7bb.png");
+  background-repeat: no-repeat;
+}
+.textotitulo{
+  font-size: 18px;
+}
