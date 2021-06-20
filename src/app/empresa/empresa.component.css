@@ -1,0 +1,21 @@
+.texto{
+  color: #224676;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fondo{
+  width: auto;
+  height: 400px;
+}
+.textotitulo{
+  font-size: 18px;
+}
+
+.textoinicio2{
+  background-image: url("https://user-images.githubusercontent.com/78450336/121085240-39e97880-c7a7-11eb-8135-9da9b8005942.png");
+  background-repeat: no-repeat;
+}
+.textoinicio3{
+  background-image: url("https://user-images.githubusercontent.com/78450336/118043976-b2415300-b33b-11eb-96d9-d437963cb7bb.png");
+  background-repeat: no-repeat;
+}
